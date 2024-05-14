@@ -1,4 +1,4 @@
-# GeneSearch
+# GeneSearch collaboration with Dr. Chung-dar Lu, Georgia State University https://www.researchgate.net/profile/Chung-Dar-Lu
 Java
 
 Purpose of this software:
